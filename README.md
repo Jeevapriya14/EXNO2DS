@@ -33,7 +33,8 @@ dt
 
 <img width="816" alt="image" src="https://github.com/Jeevapriya14/EXNO2DS/assets/121003043/19d80dee-d6bd-4d5b-87f4-cb624268943a">
 
-```dt.info()
+```
+dt.info()
 ```
 
 
